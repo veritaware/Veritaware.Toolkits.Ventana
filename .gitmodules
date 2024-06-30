@@ -1,0 +1,3 @@
+[submodule "module/Veritaware.Toolkits.CWEL"]
+	path = module/Veritaware.Toolkits.CWEL
+	url = git@github.com:veritaware/Veritaware.Toolkits.CWEL.git
